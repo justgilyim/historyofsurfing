@@ -1,0 +1,47 @@
+body{
+    font-family: 'Montseratt', sans-serif;
+    text-align: center;
+    color: yellow;
+    margin: 10px 50px 10px 50px;
+    background-image: url(http://mainbeach.com/wp-content/uploads/2013/08/Surfing-Wallpaper3.jpg);
+}
+
+#profiles ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#profiles li{
+    display: inline;
+    text-align: center;
+}
+
+a{
+    margine-left: 300;
+    margin-right: 300;
+    color: yellow;
+}
+
+h1,h2{
+    font-family:'Roboto', sans-serif;
+    font-size: 45px;
+}
+
+img{
+    float: behind;
+}
+
+.Intro{
+    text-align: center;
+}
+
+P.Introduction{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.profile1{
+    background-image: url(http://www.lairdhamilton.com/wp-content/uploads/2013/06/FoilClose1.jpg);
+    width
+}
