@@ -1,47 +1,66 @@
 body{
-    font-family: 'Montseratt', sans-serif;
-    text-align: center;
-    color: yellow;
-    margin: 10px 50px 10px 50px;
-    background-image: url(http://mainbeach.com/wp-content/uploads/2013/08/Surfing-Wallpaper3.jpg);
-}
-
-#profiles ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-#profiles li{
-    display: inline;
-    text-align: center;
-}
-
-a{
-    margine-left: 300;
-    margin-right: 300;
-    color: yellow;
+    background-image: url(http://a3.espncdn.com/photo/2014/0503/as_surf_rothman_mckenna_2048.jpg);
+    color: orange;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1,h2{
-    font-family:'Roboto', sans-serif;
-    font-size: 45px;
+    font-family: 'Roboto', sans-serif;
 }
 
-img{
-    float: behind;
-}
-
-.Intro{
+.stacy{
+    color: white;
+    background-image: url(http://www.outsideonline.com/sites/default/files/migrated-images/P275204-2-1_peralta_2.jpg);
+    float: left;
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
     text-align: center;
+    vertical-align: middle;
+    line-height: 200px;
 }
 
-P.Introduction{
-    margin-left: auto;
-    margin-right: auto;
+.dave{
+    color: white;
+    background-image: url(http://www.seabreeze.com.au/img/Content/5742091/5744674.jpg);
+    float: left;
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 200px;
 }
 
-.profile1{
-    background-image: url(http://www.lairdhamilton.com/wp-content/uploads/2013/06/FoilClose1.jpg);
-    width
+.andy{
+    color: white;
+    background-image: url(http://www.pohnpeisurfclub.com/captains_log/wp-content/uploads/2010/11/Andy-Irons.jpg);
+    float: left;
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 200px;
+}
+
+.laird{
+    color: white;
+    background-image: url(http://stwww.surfermag.com/files/2010/11/wpid-laird-hamilton-teahupoo-677.jpg);
+    float: left;
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 200px;
+}
+
+.profiles{
+    width: 800px;
+    margin: auto;
 }
